@@ -1,0 +1,211 @@
+Tarih,Besin,Zaman,Uyku,Su (Bardak),Hareket (Adim),Stres,Hazim
+04.03.2023,Yulaf,Sabah,6,2,3000,Orta,Kötü
+04.03.2023,Chia,Sabah,6,2,3000,Orta,Kötü
+04.03.2023,Sade Kahve,Sabah,6,2,3000,Orta,Kötü
+04.03.2023,Yumurta,Ögle,6,2,3000,Orta,Kötü
+04.03.2023,Ekmek,Ögle,6,2,3000,Orta,Kötü
+04.03.2023,Recel,Ögle,6,2,3000,Orta,Kötü
+04.03.2023,Roka,Ögle,6,2,3000,Orta,Kötü
+04.03.2023,Köfte,Aksam,6,2,3000,Orta,Kötü
+04.03.2023,Patates,Aksam,6,2,3000,Orta,Kötü
+04.03.2023,Pilav,Aksam,6,2,3000,Orta,Kötü
+05.03.2023,Sade Kahve,Sabah,6,2,2323,Orta,Orta
+05.03.2023,Sütlü Yulaf,Ögle,6,2,2323,Orta,Orta
+05.03.2023,Et,Aksam,6,2,2323,Orta,Orta
+05.03.2023,Pilav,Aksam,6,2,2323,Orta,Orta
+05.03.2023,Patates,Aksam,6,2,2323,Orta,Orta
+06.03.2023,Kahve,Sabah,7,3,1167,Az,Kötü
+06.03.2023,Yulaf Yogurt,Sabah,7,3,1167,Az,Kötü
+06.03.2023,Beyaz Peynirli Tost,Ögle,7,3,1167,Az,Kötü
+06.03.2023,Pilav,Aksam,7,3,1167,Az,Kötü
+06.03.2023,Yogurtlu Havuc,Aksam,7,3,1167,Az,Kötü
+06.03.2023,Sarimsak,Aksam,7,3,1167,Az,Kötü
+07.03.2023,Kahve,Sabah,8,3,1504,Az,Kötü
+07.03.2023,Cikolatali Kek,Sabah,8,3,1504,Az,Kötü
+07.03.2023,Yulaf Poaca,Ögle,8,3,1504,Az,Kötü
+07.03.2023,Peynir,Ögle,8,3,1504,Az,Kötü
+07.03.2023,Bal,Ögle,8,3,1504,Az,Kötü
+07.03.2023,Biber,Aksam,8,3,1504,Az,Kötü
+07.03.2023,Kabak,Aksam,8,3,1504,Az,Kötü
+07.03.2023,Tavuk,Aksam,8,3,1504,Az,Kötü
+07.03.2023,Brokkoli,Aksam,8,3,1504,Az,Kötü
+08.03.2023,Kek,Sabah,6,3,2584,Az,Kötü
+08.03.2023,Kahve,Sabah,6,3,2584,Az,Kötü
+08.03.2023,Yulaf,Ögle,6,3,2584,Az,Kötü
+08.03.2023,Granola,Ögle,6,3,2584,Az,Kötü
+08.03.2023,Badem Sütü,Ögle,6,3,2584,Az,Kötü
+08.03.2023,Makarna,Aksam,6,3,2584,Az,Kötü
+08.03.2023,Kabak,Aksam,6,3,2584,Az,Kötü
+08.03.2023,Kanat,Aksam,6,3,2584,Az,Kötü
+08.03.2023,Salata,Aksam,6,3,2584,Az,Kötü
+09.03.2023,Kek,Sabah,8,3,2761,Az,Iyi
+09.03.2023,Kahve,Sabah,8,3,2761,Az,Iyi
+09.03.2023,Yesil Cay,Sabah,8,3,2761,Az,Iyi
+09.03.2023,Tost,Ögle,8,3,2761,Az,Iyi
+09.03.2023,Tonlu Salata,Aksam,8,3,2761,Az,Iyi
+10.03.2023,Kahve ,Sabah,7,4,1358,Az,Iyi
+10.03.2023,Yulaf ,Sabah,7,4,1358,Az,Iyi
+10.03.2023,Carkifelek ,Ögle,7,4,1358,Az,Iyi
+10.03.2023, Yulaf,Ögle,7,4,1358,Az,Iyi
+10.03.2023,Salata,Aksam,7,4,1358,Az,Iyi
+10.03.2023,Pizza,Aksam,7,4,1358,Az,Iyi
+11.03.2023,Kek,Sabah,6,3,2568,Az,Iyi
+11.03.2023,Kahve,Ögle,6,3,2568,Az,Iyi
+11.03.2023,Yogurt,Ögle,6,3,2568,Az,Iyi
+11.03.2023,Yulaf,Ögle,6,3,2568,Az,Iyi
+11.03.2023,Pizza,Aksam,6,3,2568,Az,Iyi
+11.03.2023,Salata,Aksam,6,3,2568,Az,Iyi
+12.03.2023,Kahve,Sabah,7,3,10223,Az,Iyi
+12.03.2023,Kek,Sabah,7,3,10223,Az,Iyi
+12.03.2023,Tost,Ögle,7,3,10223,Az,Iyi
+12.03.2023,Kuymak,Ögle,7,3,10223,Az,Iyi
+12.03.2023,Sucuk,Ögle,7,3,10223,Az,Iyi
+12.03.2023,Et,Aksam,7,3,10223,Az,Iyi
+12.03.2023,Salata,Aksam,7,3,10223,Az,Iyi
+13.03.2023,Kahve,Sabah,8,2,1354,Az,Iyi
+13.03.2023,Badem,Sabah,8,2,1354,Az,Iyi
+13.03.2023,Yerfistigi Ezmesi,Ögle,8,2,1354,Az,Iyi
+13.03.2023,Yulaf,Ögle,8,2,1354,Az,Iyi
+13.03.2023,Kiymali Karnabahar,Aksam,8,2,1354,Az,Iyi
+13.03.2023,Salata,Aksam,8,2,1354,Az,Iyi
+14.03.2023,Kahve,Sabah,8,2,2123,Az,Iyi
+14.03.2023,Badem,Sabah,8,2,2123,Az,Iyi
+14.03.2023,Ceviz,Sabah,8,2,2123,Az,Iyi
+14.03.2023,Carkifelek,Ögle,8,2,2123,Az,Iyi
+14.03.2023,Yogurt,Ögle,8,2,2123,Az,Iyi
+14.03.2023,Yulaf,Ögle,8,2,2123,Az,Iyi
+14.03.2023,Kabak,Aksam,8,2,2123,Az,Iyi
+14.03.2023,Havuc,Aksam,8,2,2123,Az,Iyi
+14.03.2023,Tavuk,Aksam,8,2,2123,Az,Iyi
+15.03.2023,Kahve,Sabah,8,3,1871,Az,Iyi
+15.03.2023,Yulaf,Sabah,8,3,1871,Az,Iyi
+15.03.2023,Yumurta,Ögle,8,3,1871,Az,Iyi
+15.03.2023, Zeytin,Ögle,8,3,1871,Az,Iyi
+15.03.2023,Mercimek Yemegi,Aksam,8,3,1871,Az,Iyi
+16.03.2023,Yulaf,Sabah,8,3,1567,Az,Kötü
+16.03.2023,Kahve ,Ögle,8,3,1567,Az,Kötü
+16.03.2023,Köfte,Aksam,8,3,1567,Az,Kötü
+16.03.2023,Salata,Aksam,8,3,1567,Az,Kötü
+16.03.2023,Brokkoli,Aksam,8,3,1567,Az,Kötü
+16.03.2023,Havuc,Aksam,8,3,1567,Az,Kötü
+17.03.2023,Kahve,Sabah,7,4,3224,Az,Iyi
+17.03.2023,Yulaf Poaca,Ögle,7,4,3224,Az,Iyi
+17.03.2023,Yumurta,Ögle,7,4,3224,Az,Iyi
+17.03.2023,Balik,Aksam,7,4,3224,Az,Iyi
+17.03.2023,Salata,Aksam,7,4,3224,Az,Iyi
+17.03.2023,Patates,Aksam,7,4,3224,Az,Iyi
+17.03.2023,Brokkoli,Aksam,7,4,3224,Az,Iyi
+17.03.2023,Havuc,Aksam,7,4,3224,Az,Iyi
+18.03.2023,Yogurt,Sabah,6,2,2301,Az,Iyi
+18.03.2023,Yulaf,Sabah,6,2,2301,Az,Iyi
+18.03.2023,Yumurt,Ögle,6,2,2301,Az,Iyi
+18.03.2023,Beyaz Peynir,Ögle,6,2,2301,Az,Iyi
+18.03.2023,Zeytin,Ögle,6,2,2301,Az,Iyi
+18.03.2023,Balik,Aksam,6,2,2301,Az,Iyi
+18.03.2023,Salata,Aksam,6,2,2301,Az,Iyi
+19.03.2023,Yogurt,Sabah,8,2,2897,çok,Orta
+19.03.2023,Yulaf,Sabah,8,2,2897,çok,Orta
+19.03.2023,Kasarli Sucuklu Tost,Ögle,8,2,2897,çok,Orta
+19.03.2023,Zeytin,Ögle,8,2,2897,çok,Orta
+19.03.2023,Kiymali Pazi Yemegi,Aksam,8,2,2897,çok,Orta
+19.03.2023,Yogurtlu Patlican,Aksam,8,2,2897,çok,Orta
+20.03.2023,Kahve,Sabah,7,3,1643,Az,Kötü
+20.03.2023,Carkifelek,Ögle,7,3,1643,Az,Kötü
+20.03.2023,Yogurt,Ögle,7,3,1643,Az,Kötü
+20.03.2023,Yulaf,Ögle,7,3,1643,Az,Kötü
+20.03.2023,Lahana Yemegi,Aksam,7,3,1643,Az,Kötü
+20.03.2023,Yogurt,Aksam,7,3,1643,Az,Kötü
+21.03.2023,Kahve,Sabah,7,4,2442,Az,Iyi
+21.03.2023,Yulaf Pizza,Ögle,7,4,2442,Az,Iyi
+21.03.2023,Mezgit,Aksam,7,4,2442,Az,Iyi
+21.03.2023,Patates,Aksam,7,4,2442,Az,Iyi
+21.03.2023,Salata,Aksam,7,4,2442,Az,Iyi
+22.03.2023,Yogurt,Sabah,8,3,1857,Az,Iyi
+22.03.2023,Yulaf,Sabah,8,3,1857,Az,Iyi
+22.03.2023,Kahve,Sabah,8,3,1857,Az,Iyi
+22.03.2023,Yumurta,Ögle,8,3,1857,Az,Iyi
+22.03.2023,Tost,Ögle,8,3,1857,Az,Iyi
+22.03.2023,Tavuk,Aksam,8,3,1857,Az,Iyi
+22.03.2023,Biber,Aksam,8,3,1857,Az,Iyi
+22.03.2023,Brokkoli,Aksam,8,3,1857,Az,Iyi
+22.03.2023,Kabak,Aksam,8,3,1857,Az,Iyi
+22.03.2023,Patlican,Aksam,8,3,1857,Az,Iyi
+23.03.2023,Menemen,Sabah,5,4,5857,Az,Iyi
+23.03.2023,Kahve,Ögle,5,4,5857,Az,Iyi
+23.03.2023,Eti Form,Ögle,5,4,5857,Az,Iyi
+23.03.2023,Levrek,Aksam,5,4,5857,Az,Iyi
+23.03.2023,Salata,Aksam,5,4,5857,Az,Iyi
+24.03.2023,Kahve,Sabah,7,6,2428,Orta,Orta
+24.03.2023,Elmali Yulaf Ezmesi,Sabah,7,6,2428,Orta,Orta
+24.03.2023,Yumurta,Ögle,7,6,2428,Orta,Orta
+24.03.2023,Tost,Ögle,7,6,2428,Orta,Orta
+24.03.2023,Et,Aksam,7,6,2428,Orta,Orta
+24.03.2023,Pilav,Aksam,7,6,2428,Orta,Orta
+24.03.2023,Bezelye,Aksam,7,6,2428,Orta,Orta
+25.03.2023,Kahve,Sabah,6,4,7335,Az,Iyi
+25.03.2023,Yulaf,Sabah,6,4,7335,Az,Iyi
+25.03.2023,Salata,Ögle,6,4,7335,Az,Iyi
+25.03.2023,Salata,Aksam,6,4,7335,Az,Iyi
+25.03.2023,Mercimek Corbasi,Aksam,6,4,7335,Az,Iyi
+26.03.2023,Yumurta,Ögle,9,3,4677,Az,Kötü
+26.03.2023,Recel,Ögle,9,3,4677,Az,Kötü
+26.03.2023,Zeytin,Ögle,9,3,4677,Az,Kötü
+26.03.2023,Ekmek,Ögle,9,3,4677,Az,Kötü
+26.03.2023,Köfte,Aksam,9,3,4677,Az,Kötü
+26.03.2023,Salata,Aksam,9,3,4677,Az,Kötü
+26.03.2023,Kuzu,Aksam,9,3,4677,Az,Kötü
+27.03.2023,Kahve,Sabah,7,4,6249,Orta,Iyi
+27.03.2023,Kurabiye,Sabah,7,4,6249,Orta,Iyi
+27.03.2023,Yulaf,Sabah,7,4,6249,Orta,Iyi
+27.03.2023,Ekmek,Ögle,7,4,6249,Orta,Iyi
+27.03.2023,Yumurta,Ögle,7,4,6249,Orta,Iyi
+27.03.2023,Nohut,Aksam,7,4,6249,Orta,Iyi
+27.03.2023,Pilav,Aksam,7,4,6249,Orta,Iyi
+27.03.2023,Salata,Aksam,7,4,6249,Orta,Iyi
+28.03.2023,Kahve,Sabah,6,5,2368,çok,Kötü
+28.03.2023,Yogurt,Ögle,6,5,2368,çok,Kötü
+28.03.2023,Kabak,Ögle,6,5,2368,çok,Kötü
+28.03.2023,Tavuk,Aksam,6,5,2368,çok,Kötü
+28.03.2023,Kabak,Aksam,6,5,2368,çok,Kötü
+28.03.2023,Biber,Aksam,6,5,2368,çok,Kötü
+29.03.2023,Yulaf,Sabah,7,6,7534,Az,Iyi
+29.03.2023,Chia,Sabah,7,6,7534,Az,Iyi
+29.03.2023,Yulaf Sütü,Sabah,7,6,7534,Az,Iyi
+29.03.2023,Kahve,Ögle,7,6,7534,Az,Iyi
+29.03.2023,Kek,Ögle,7,6,7534,Az,Iyi
+29.03.2023,Mercimek Yemegi,Aksam,7,6,7534,Az,Iyi
+29.03.2023,Salata,Aksam,7,6,7534,Az,Iyi
+30.03.2023,Kahve,Sabah,6,6,3118,Az,Orta
+30.03.2023,Yumurta,Ögle,6,6,3118,Az,Orta
+30.03.2023,Zeytin,Ögle,6,6,3118,Az,Orta
+30.03.2023,Ekmek,Ögle,6,6,3118,Az,Orta
+30.03.2023,Palamut,Aksam,6,6,3118,Az,Orta
+30.03.2023,Salata,Aksam,6,6,3118,Az,Orta
+31.03.2023,Kahve,Sabah,7,3,7859,Orta,Iyi
+31.03.2023,Sandivic,Ögle,7,3,7859,Orta,Iyi
+31.03.2023,Patates,Aksam,7,3,7859,Orta,Iyi
+31.03.2023,Salata,Aksam,7,3,7859,Orta,Iyi
+31.03.2023,Et,Aksam,7,3,7859,Orta,Iyi
+01.04.2023,Kahve,Sabah,5,3,2245,Az,Kötü
+01.04.2023,Ekmek,Ögle,5,3,2245,Az,Kötü
+01.04.2023,Yumurta,Ögle,5,3,2245,Az,Kötü
+01.04.2023,Domates,Ögle,5,3,2245,Az,Kötü
+01.04.2023,Zeytin,Ögle,5,3,2245,Az,Kötü
+01.04.2023,Peynir,Ögle,5,3,2245,Az,Kötü
+01.04.2023,Köfte,Aksam,5,3,2245,Az,Kötü
+01.04.2023,Salata,Aksam,5,3,2245,Az,Kötü
+01.04.2023,Makarna,Aksam,5,3,2245,Az,Kötü
+02.04.2023,Kahve,Sabah,8,4,5897,Az,Iyi
+02.04.2023,Kurabiye,Sabah,8,4,5897,Az,Iyi
+02.04.2023,Menemen,Ögle,8,4,5897,Az,Iyi
+02.04.2023,Peynir,Ögle,8,4,5897,Az,Iyi
+02.04.2023,Ekmek,Ögle,8,4,5897,Az,Iyi
+02.04.2023,Yayla Corbasi,Aksam,8,4,5897,Az,Iyi
+02.04.2023,Salata,Aksam,8,4,5897,Az,Iyi
+02.04.2023,Makarna,Aksam,8,4,5897,Az,Iyi
+03.04.2023,Kahve,Sabah,6,5,2374,çok,Kötü
+03.04.2023,Yulaf,Sabah,6,5,2374,çok,Kötü
+03.04.2023,Tost,Ögle,6,5,2374,çok,Kötü
+03.04.2023,Kuru Fasulye,Aksam,6,5,2374,çok,Kötü
+03.04.2023,Yogurt,Aksam,6,5,2374,çok,Kötü
+
